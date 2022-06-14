@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Martin - I'm a junior fullstack developer. 
+I started progamming on october 21' by doing a fullstack developer bootcamp with Hack A Boss. I like it so much and I learn about: 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react)](https://skillicons.dev)
+
+Now I am open to work and learn more!!!
+
 <!--
 **AgoladaMartin/AgoladaMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
