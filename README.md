@@ -14,6 +14,9 @@ https://github.com/AgoladaMartin/Rate-a-Biz-Back
 Frontend --->
 https://github.com/AgoladaMartin/Rate_A_Biz_Front
 
+Video --->
+https://www.youtube.com/watch?v=a8g0NbVc7o4&feature=youtu.be
+
 Now I am open to work and learn more!!!
 
 <!--
