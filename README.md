@@ -5,7 +5,8 @@ I'm Martin - I'm a junior fullstack developer.
 This is my latest project:
 
 https://github.com/AgoladaMartin/podcast-app
-A single page aplication to listen top 100 musical podcast from itunes
+
+A single page aplication to listen top 100 musical podcast from itunes.
 
 
 I did a fullstack developer bootcamp with Hack A Boss. My teammates and me did a project about give feedback on business companies you worked for, we are very proud of that. 
