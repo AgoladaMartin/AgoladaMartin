@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=a8g0NbVc7o4&feature=youtu.be
 
 This is my skill tree:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,react,angular,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,react,angular,java,php)](https://skillicons.dev)
 
 ------------------------------------
 Now I am open to work and learn more!!!
