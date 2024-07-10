@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-I'm Martin - I'm a junior fullstack developer. 
+### I'm Martin - I'm a junior fullstack developer. 
+I did a fullstack developer bootcamp with Hack A Boss. 
+I am currently studying the second year of the vocational training of web application development.
 
 
-This is my latest project, A single page aplication to listen top 100 musical podcast from itunes.
+### This is my latest project, A single page aplication to listen top 100 musical podcast from itunes.
 
 https://github.com/AgoladaMartin/podcast-app
+
+
+You can check top 100 musical podcast from itunes
+![image](https://github.com/AgoladaMartin/AgoladaMartin/assets/92450886/739d0a27-2f09-4010-a061-4432adf7a982)
+
+You can choose one podcast and see the full episode list
+![image](https://github.com/AgoladaMartin/AgoladaMartin/assets/92450886/cb3d3045-50c7-456f-b65c-76d5d169d949)
+
+You can listen to the episode you choose
+![image](https://github.com/AgoladaMartin/AgoladaMartin/assets/92450886/64fd6fc7-3e5c-49e8-82d8-9072f7077695)
+
 
 ----------------------------------
 
 
-I did a fullstack developer bootcamp with Hack A Boss. My teammates and me did a project about give feedback on business companies you worked for, we are very proud of that. 
+On fullstack developer bootcamp my teammates and me did a project about give feedback on business companies you worked for, we are very proud of that. 
 These are the repositories:
 
 Backend --->
