@@ -7,7 +7,9 @@ I am currently studying the second year of the vocational training of web applic
 
 ### This is my latest project, A single page aplication to listen top 100 musical podcast from itunes.
 
-https://github.com/AgoladaMartin/podcast-app
+https://podcast-app-woad.vercel.app/ (Try it!)
+
+
 
 
 You can check top 100 musical podcast from itunes
@@ -19,6 +21,7 @@ You can choose one podcast and see the full episode list
 You can listen to the episode you choose
 ![image](https://github.com/AgoladaMartin/AgoladaMartin/assets/92450886/64fd6fc7-3e5c-49e8-82d8-9072f7077695)
 
+https://github.com/AgoladaMartin/podcast-app
 
 ----------------------------------
 
